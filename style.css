@@ -28,7 +28,7 @@ body{
 
 }
 #rodape{
-
+    clear: both;
 }
 nav{
     float: left;
@@ -37,4 +37,12 @@ nav{
     text-align: center;
     padding: 14px;
     text-decoration: none;
+}
+.lado-esquerdo{
+float:left;
+width:70%;
+}
+.lado-direito{
+float: right;
+width:20%;
 }
