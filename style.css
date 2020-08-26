@@ -1,5 +1,9 @@
 body{
     Background-color: rgb(253, 251, 251);
+    font-size:1.2em;
+    color: rgb(34, 34, 34);
+    line-height: 1.2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #cabecalho{
     Background-color: rgb(44, 90, 51);
